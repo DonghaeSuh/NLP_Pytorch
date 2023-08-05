@@ -16,17 +16,17 @@ The "NLP Pytorch" project is a repository that focuses on handling basic deep le
 
 ## Model Architecture
 
-- [RNN_Classification](RNN_Classification.md)
-- [Seq2Seq_Chatbot](Seq2Seq_Chatbot.md)  
-- [Transformer_Chatbot](Transformer_Chatbot.md)  
+- [RNN_Classification](https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/RNN_Classification.md)
+- [Seq2Seq_Chatbot]((https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/Seq2Seq_Chatbot.md))  
+- [Transformer_Chatbot](https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/Transformer_Chatbot.md)  
 - BERT
-  - [BERT_MRC]()
-  - [BERT_NER]()
-  - [BERT_NLI]()
-  - [BERT_STS]()
-  - [BERT_Text_Classification]()
+  - [BERT_MRC](https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/BERT_MRC.md)
+  - [BERT_NER](https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/BERT_NER.md)
+  - [BERT_NLI](https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/BERT_NLI.md)
+  - [BERT_STS](https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/BERT_STS.md)
+  - [BERT_Text_Classification](https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/BERT_Text_Classification.md)
 - GPT
-  - [GPT2_GEN]()
+  - [GPT2_GEN](https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/GPT2_GEN.md)
  
 ## Repository
 ```
