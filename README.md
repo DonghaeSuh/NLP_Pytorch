@@ -16,7 +16,18 @@ The "NLP Pytorch" project is a repository that focuses on handling basic deep le
 
 ## Model Architecture
 
-
+- [RNN_Classification](RNN_Classification.md)
+- [Seq2Seq_Chatbot](Seq2Seq_Chatbot.md)  
+- [Transformer_Chatbot](Transformer_Chatbot.md)  
+- BERT
+  - [BERT_MRC]()
+  - [BERT_NER]()
+  - [BERT_NLI]()
+  - [BERT_STS]()
+  - [BERT_Text_Classification]()
+- GPT
+  - [GPT2_GEN]()
+ 
 ## Repository
 ```
 NLP_Pytorch
