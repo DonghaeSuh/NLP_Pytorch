@@ -20,10 +20,20 @@ The "NLP Pytorch" project is a repository that focuses on handling basic deep le
 ## Repository
 ```
 NLP_Pytorch
+├── Architecture
+│   ├── BERT_MRC.md
+│   ├── BERT_NER.md
+│   ├── BERT_NLI.md
+│   ├── BERT_STS.md
+│   ├── BERT_Text_Classification.md
+│   ├── GPT2_GEN.md
+│   ├── RNN_Classification.md
+│   ├── Seq2Seq_Chatbot.md
+│   └── Transformer_Chatbot.md
 ├── EDA
 │   ├── Chatbot_EDA.ipynb
 │   ├── Quora_Question_Pairs_EDA.ipynb
-│   ├── aclImdb_EDA.ipynb
+│   └── aclImdb_EDA.ipynb
 ├── Model
 │   ├── BERT
 │   │   ├── BERT_MRC.ipynb
