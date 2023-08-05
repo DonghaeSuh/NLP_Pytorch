@@ -1,12 +1,15 @@
 # NLP_Pytorch
 
-The "NLP Pytorch" project aims to provide a concise overview of how to handle natural language processing (NLP) models using PyTorch. 
+The "NLP Pytorch" project aims to provide a concise overview of how to handle natural language processing (NLP) models using PyTorch.  
 This project covers the implementation of simple deep learning models like RNN and CNN using PyTorch, 
 as well as fine-tuning pre-trained models like BERT and GPT-2 using the Huggingface library.
 
 ## Overview
 
-The "NLP Pytorch" project is a repository that focuses on handling basic deep learning-based NLP models using PyTorch. It primarily demonstrates the implementation of fundamental architectures such as RNN and CNN for tasks like text classification and sentiment analysis. Additionally, it introduces the method of fine-tuning pre-trained models like BERT and GPT-2 using the Huggingface library.
+The "NLP Pytorch" project is a repository that focuses on handling basic deep learning-based NLP models using PyTorch.  
+It primarily demonstrates the implementation of fundamental architectures such as RNN and CNN for tasks like text 
+ classification and sentiment analysis.  
+ Additionally, it introduces the method of fine-tuning pre-trained models like BERT and GPT-2 using the Huggingface library.
 
 ## Key Features and Highlights
 
@@ -17,7 +20,7 @@ The "NLP Pytorch" project is a repository that focuses on handling basic deep le
 ## Model Architecture
 
 - [RNN_Classification](https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/RNN_Classification.md)
-- [Seq2Seq_Chatbot]((https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/Seq2Seq_Chatbot.md))  
+- [Seq2Seq_Chatbot](https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/Seq2Seq_Chatbot.md)  
 - [Transformer_Chatbot](https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/Transformer_Chatbot.md)  
 - BERT
   - [BERT_MRC](https://github.com/DonghaeSuh/NLP_Pytorch/blob/main/Architecture/BERT_MRC.md)
