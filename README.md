@@ -14,6 +14,9 @@ The "NLP Pytorch" project is a repository that focuses on handling basic deep le
 - Fine-tuning of pre-trained models like BERT,GPT-2 using the Huggingface library
 - Example code for tasks like text classification and sentiment analysis
 
+## Model Architecture
+
+
 ## Repository
 ```
 NLP_Pytorch
