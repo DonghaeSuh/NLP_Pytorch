@@ -14,6 +14,37 @@ The "NLP Pytorch" project is a repository that focuses on handling basic deep le
 - Fine-tuning of pre-trained models like BERT,GPT-2 using the Huggingface library
 - Example code for tasks like text classification and sentiment analysis
 
+## Repository
+```
+NLP_Pytorch
+├── EDA
+│   ├── Chatbot_EDA.ipynb
+│   ├── Quora_Question_Pairs_EDA.ipynb
+│   ├── aclImdb_EDA.ipynb
+├── Model
+│   ├── BERT
+│   │   ├── BERT_MRC.ipynb
+│   │   ├── BERT_NER.ipynb
+│   │   ├── BERT_NLI.ipynb
+│   │   ├── BERT_STS.ipynb
+│   │   └── BERT_Text_Classification.ipynb
+│   ├── GPT_2
+│   │   └── GPT2_GEN.ipynb
+│   ├── Quora_Question_Pairs_CNN.ipynb
+│   ├── RNN_Classification.ipynb
+│   ├── Seq2Seq_Chatbot_ver2.ipynb
+│   └── Transformer_Chatbot.ipynb
+├── Preprocessing
+│   ├── NER_data_to_DataFrame.ipynb
+│   ├── NLP_Preprocessing.ipynb
+│   ├── Python_NLP_Preprocessing.ipynb
+│   └── Torchtext_korean.ipynb
+├── LICENSE
+└── README.md
+```
+
+
+
 ## Installation and Usage Guide
 
 To run the project, follow these steps:
